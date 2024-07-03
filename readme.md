@@ -1,10 +1,2 @@
-# JS Practice questions
-
-## This repo for the purpose of the learning new concepts and revising the js 
-
-### setting up invironment
-```
-nvm install 
-nvm install node
-install git
-```
+# Learn form chai aur code
+// write the readme file about all the installation tool for using frontend and back-end
