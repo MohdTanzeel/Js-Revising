@@ -1,2 +1,3 @@
 # Learn form chai aur code
-// write the readme file about all the installation tool for using frontend and back-end
+
+## This folder is containing multiple projects of html,css and JavaScript
